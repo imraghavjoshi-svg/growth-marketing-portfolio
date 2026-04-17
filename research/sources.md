@@ -71,17 +71,17 @@ of marketer who doesn't just create content — but builds content engines.
 
 ### 9. Ethan Smith
 - **Platform:** YouTube + LinkedIn
-- **Link:** https://www.linkedin.com/in/ethan-smith-seo/
+- **Link:** https://www.linkedin.com/in/ethanls/
 - **Content Collected:** YouTube transcript
 - **Why:** Focuses on AI content production workflows at scale
 - **Date collected:** 17 April 2026
 
-### 10. Liz Wilcox
-- **Platform:** LinkedIn + Newsletter
-- **Link:** https://www.linkedin.com/in/elizabethjwilcox/
-- **Content Collected:** LinkedIn post + newsletter
-- **Why:** Covers AI-assisted content and email marketing systems
-- **Date collected:** 17 April 2026
+### 10. Amanda Natividad
+- **Platform:** LinkedIn + SparkToro Blog
+- **Link:** https://www.linkedin.com/in/amandanat/
+- **Content Collected:** LinkedIn posts
+- **Why:** VP Marketing at SparkToro, known for zero-click marketing and algorithmic capital frameworks — directly addresses how content creators should think in an AI-driven world
+- **Date collected:** 18 April 2026
 
 ## Collection Method Notes
 LinkedIn posts were collected manually by visiting each expert's profile.
