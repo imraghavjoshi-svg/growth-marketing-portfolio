@@ -37,3 +37,70 @@ digging deep into media research to understand what truly resonates with
 audiences. I'm also drawn to vibe marketing — crafting brand narratives
 that connect emotionally. On top of that, I'm a Generative AI enthusiast
 who loves exploring how AI tools can supercharge content and marketing workflows.
+
+---
+
+## Step 2 – Research Project: AI-Powered SEO Content Production
+
+### Topic Chosen
+AI-Powered SEO Content Production
+
+### Why I Chose This Topic
+This topic sits at the intersection of content strategy and Generative AI —
+two areas I'm deeply interested in. As AI reshapes how marketing teams
+produce content at scale, understanding the best frameworks and workflows
+from practitioners is essential for any growth marketer.
+
+### What I Collected
+- 10 expert sources across LinkedIn, YouTube, newsletters and blogs
+- LinkedIn posts organized by author
+- YouTube transcripts collected via Supadata API
+- Blog and newsletter articles as additional research material
+
+### Repository Structure
+- `/research/sources.md` — Full expert list with annotations
+- `/research/linkedin-posts/` — Posts organized by author
+- `/research/youtube-transcripts/` — Transcripts organized by video
+- `/research/other/` — Additional articles and newsletters
+
+### Key Experts
+Eli Schwartz, Aleyda Solis, Chima Mmeje, Ryan Law, Brendan Hufford,
+Kevin Indig, Kyle Roof, Bernard Huang, Ethan Smith, Amanda Natividad
+
+### Tools Used
+- Supadata API — for collecting YouTube transcripts programmatically
+- Git — for version control and regular commits throughout the process
+- Cursor IDE — for file management and code editing
+---
+
+## Step 2 – Research Project: AI-Powered SEO Content Production
+
+### Topic Chosen
+AI-Powered SEO Content Production
+
+### Why I Chose This Topic
+This topic sits at the intersection of content strategy and Generative AI —
+two areas I'm deeply interested in. As AI reshapes how marketing teams
+produce content at scale, understanding the best frameworks and workflows
+from practitioners is essential for any growth marketer.
+
+### What I Collected
+- 10 expert sources across LinkedIn, YouTube, newsletters and blogs
+- LinkedIn posts organized by author
+- YouTube transcripts collected via Supadata API
+- Blog and newsletter articles as additional research material
+
+### Repository Structure
+- `/research/sources.md` — Full expert list with annotations
+- `/research/linkedin-posts/` — Posts organized by author
+- `/research/youtube-transcripts/` — Transcripts organized by video
+- `/research/other/` — Additional articles and newsletters
+
+### Key Experts
+Eli Schwartz, Aleyda Solis, Chima Mmeje, Ryan Law, Brendan Hufford,
+Kevin Indig, Kyle Roof, Bernard Huang, Ethan Smith, Amanda Natividad
+
+### Tools Used
+- Supadata API — for collecting YouTube transcripts programmatically
+- Git — for version control and regular commits throughout the process
+- Cursor IDE — for file management and code editing
