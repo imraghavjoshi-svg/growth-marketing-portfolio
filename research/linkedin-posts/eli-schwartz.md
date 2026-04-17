@@ -7,7 +7,7 @@
 
 ## Post 1
 **Date:** [Mon, 13 Apr 2026]
-**URL:** https://www.linkedin.com/posts/schwartze_aeo-is-not-seo-20-activity-7449429962782044160-Qv4A?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmUbgsBpSGfIEqQ4lgjhkT_ZdTbzB0_Zyk]
+**URL:** [https://www.linkedin.com/posts/schwartze_aeo-is-not-seo-20-activity-7449429962782044160-Qv4A?utm_source=share&utm_medium=member_desktop&rcm=ACoAADmUbgsBpSGfIEqQ4lgjhkT_ZdTbzB0_Zyk]
 
 [AEO is not SEO 2.0.
 And everyone treating it like an upgrade has already missed the point.
@@ -70,7 +70,7 @@ The strategic muscle you need to rebuild isn't gone, and the smartest move is ad
 
 ## Post 3
 **Date:** [Wed, 25 Mar 2026 ]
-**URL:** https://www.linkedin.com/posts/schwartze_if-your-seo-strategy-needs-a-glossary-it-activity-7442572806334144513-gJDw?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADmUbgsBpSGfIEqQ4lgjhkT_ZdTbzB0_Zyk]
+**URL:** [https://www.linkedin.com/posts/schwartze_if-your-seo-strategy-needs-a-glossary-it-activity-7442572806334144513-gJDw?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADmUbgsBpSGfIEqQ4lgjhkT_ZdTbzB0_Zyk]
 
 [If your SEO strategy needs a glossary, it isn't a strategy.
 

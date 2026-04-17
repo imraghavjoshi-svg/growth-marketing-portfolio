@@ -21,7 +21,7 @@ of marketer who doesn't just create content — but builds content engines.
 
 ### 2. Aleyda Solis
 - **Platform:** LinkedIn + YouTube
-- **Link:** https://www.linkedin.com/in/aleydasolis/
+- **Link:** https://www.linkedin.com/in/aleyda/
 - **Why:** International SEO consultant who actively documents AI workflows
 - **Date collected:** 17 April 2026
 
