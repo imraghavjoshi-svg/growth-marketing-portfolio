@@ -42,9 +42,9 @@ of marketer who doesn't just create content — but builds content engines.
 - **Date collected:** 17 April 2026
 
 ### 5. Brendan Hufford
-- **Platform:** LinkedIn + YouTube
+- **Platform:** LinkedIn 
 - **Link:** https://www.linkedin.com/in/brendanhufford/
-- **Content Collected:** LinkedIn post + YouTube transcript
+- **Content Collected:** LinkedIn post 
 - **Why:** Runs AI-powered SEO experiments for SaaS companies
 - **Date collected:** 17 April 2026
 
