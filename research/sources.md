@@ -77,9 +77,9 @@ of marketer who doesn't just create content — but builds content engines.
 - **Date collected:** 17 April 2026
 
 ### 10. Amanda Natividad
-- **Platform:** LinkedIn + SparkToro Blog
+- **Platform:** LinkedIn 
 - **Link:** https://www.linkedin.com/in/amandanat/
-- **Content Collected:** LinkedIn posts
+- **Content Collected:** LinkedIn post
 - **Why:** VP Marketing at SparkToro, known for zero-click marketing and algorithmic capital frameworks — directly addresses how content creators should think in an AI-driven world
 - **Date collected:** 18 April 2026
 
