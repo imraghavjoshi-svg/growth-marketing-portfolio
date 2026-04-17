@@ -50,7 +50,7 @@ of marketer who doesn't just create content — but builds content engines.
 
 ### 6. Kevin Indig
 - **Platform:** Newsletter + LinkedIn
-- **Link:** https://www.growthmemoranda.com/
+- **Link:** https://www.growth-memo.com/
 - **Content Collected:** Newsletter article
 - **Why:** Ex-SEO lead at Shopify and G2, writes deep dives on AI SEO
 - **Date collected:** 17 April 2026
