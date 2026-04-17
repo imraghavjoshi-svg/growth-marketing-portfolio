@@ -57,17 +57,17 @@ of marketer who doesn't just create content — but builds content engines.
 
 ### 7. Kyle Roof
 - **Platform:** YouTube
-- **Link:** https://www.youtube.com/@KyleRoof
+- **Link:** https://www.youtube.com/watch?v=HuljQ2JpA9I
 - **Content Collected:** YouTube transcript
 - **Why:** Known for scientific SEO testing including AI-generated content
 - **Date collected:** 17 April 2026
 
 ### 8. Bernard Huang
 - **Platform:** YouTube + LinkedIn
-- **Link:** https://www.youtube.com/@bernardhuang
+- **Link:** - **Link:** https://www.youtube.com/@Clearscope
 - **Content Collected:** YouTube transcript
 - **Why:** Founder of Clearscope, builds AI tools for SEO content optimization
-- **Date collected:** 17 April 2026
+- **Date collected:** 18 April 2026
 
 ### 9. Ethan Smith
 - **Platform:** YouTube + LinkedIn
